@@ -7,7 +7,7 @@
     "build": "parcel build index.html",
     "test": "jest"
   },
-  "author": "Deepak Roy",
+  "author": "suraj kumar",
   "license": "ISC",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
